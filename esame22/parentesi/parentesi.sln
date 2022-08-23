@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "parentesi", "parentesi.vcxproj", "{ABB1CFDF-F666-4657-9C7C-7F08941B8A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB1CFDF-F666-4657-9C7C-7F08941B8A57}.Debug|x64.ActiveCfg = Debug|x64
+		{ABB1CFDF-F666-4657-9C7C-7F08941B8A57}.Debug|x64.Build.0 = Debug|x64
+		{ABB1CFDF-F666-4657-9C7C-7F08941B8A57}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABB1CFDF-F666-4657-9C7C-7F08941B8A57}.Debug|x86.Build.0 = Debug|Win32
+		{ABB1CFDF-F666-4657-9C7C-7F08941B8A57}.Release|x64.ActiveCfg = Release|x64
+		{ABB1CFDF-F666-4657-9C7C-7F08941B8A57}.Release|x64.Build.0 = Release|x64
+		{ABB1CFDF-F666-4657-9C7C-7F08941B8A57}.Release|x86.ActiveCfg = Release|Win32
+		{ABB1CFDF-F666-4657-9C7C-7F08941B8A57}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E76BCE54-3B56-4CD3-BC6D-774164F4A776}
+	EndGlobalSection
+EndGlobal
