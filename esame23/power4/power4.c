@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 	int x = 0;
 	bool p = IsP4(n, &x, 1);
 	if (p)
-		printf("4 ^ %d = %d", x, n);
+		printf("4^%d = %d", x, n);
 	else
 		printf("!p4");
 
